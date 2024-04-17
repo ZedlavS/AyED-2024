@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Valdez2024\Etapa0\1_Valdez_HolaNombre\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alumno.ET37\Documents\Valdez2024\Etapa0\1_Valdez_HolaNombre\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\alumno.ET37\Documents\Valdez2024\Etapa0\1_Valdez_HolaNombre\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\alumno.ET37\Documents\Valdez2024\Etapa0\1_Valdez_HolaNombre\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\alumno.ET37\Documents\Valdez2024\Etapa0\1_Valdez_HolaNombre\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
