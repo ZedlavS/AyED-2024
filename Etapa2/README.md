@@ -1,5 +1,7 @@
-#Etapa2
-*Array(vectores y tabla)
-*For
-*Variables locales y globales
-*Listas
+# Etapa 2
+
+### Temas a ver:
+* Array (vectores y tablas)
+* for 
+* variables locales y globales
+*listas
