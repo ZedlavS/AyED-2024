@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Documents\3_Valdez_TerminosYCondiciones\3_Valdez_TerminosYCondiciones\bin\Debug\3_Valdez_TerminosYCondiciones.exe.config
+C:\Users\alumno.ET37\Documents\3_Valdez_TerminosYCondiciones\3_Valdez_TerminosYCondiciones\bin\Debug\3_Valdez_TerminosYCondiciones.exe
+C:\Users\alumno.ET37\Documents\3_Valdez_TerminosYCondiciones\3_Valdez_TerminosYCondiciones\bin\Debug\3_Valdez_TerminosYCondiciones.pdb
+C:\Users\alumno.ET37\Documents\3_Valdez_TerminosYCondiciones\3_Valdez_TerminosYCondiciones\obj\Debug\3_Valdez_TerminosYCondiciones.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\3_Valdez_TerminosYCondiciones\3_Valdez_TerminosYCondiciones\obj\Debug\_3_Valdez_TerminosYCondiciones.Form1.resources
+C:\Users\alumno.ET37\Documents\3_Valdez_TerminosYCondiciones\3_Valdez_TerminosYCondiciones\obj\Debug\_3_Valdez_TerminosYCondiciones.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\3_Valdez_TerminosYCondiciones\3_Valdez_TerminosYCondiciones\obj\Debug\3_Valdez_TerminosYCondiciones.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\3_Valdez_TerminosYCondiciones\3_Valdez_TerminosYCondiciones\obj\Debug\3_Valdez_TerminosYCondiciones.exe
+C:\Users\alumno.ET37\Documents\3_Valdez_TerminosYCondiciones\3_Valdez_TerminosYCondiciones\obj\Debug\3_Valdez_TerminosYCondiciones.pdb

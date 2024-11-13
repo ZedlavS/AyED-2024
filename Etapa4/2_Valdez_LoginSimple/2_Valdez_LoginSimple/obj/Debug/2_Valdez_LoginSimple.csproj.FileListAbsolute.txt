@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Documents\2_Valdez_LoginSimple\2_Valdez_LoginSimple\bin\Debug\2_Valdez_LoginSimple.exe.config
+C:\Users\alumno.ET37\Documents\2_Valdez_LoginSimple\2_Valdez_LoginSimple\bin\Debug\2_Valdez_LoginSimple.exe
+C:\Users\alumno.ET37\Documents\2_Valdez_LoginSimple\2_Valdez_LoginSimple\bin\Debug\2_Valdez_LoginSimple.pdb
+C:\Users\alumno.ET37\Documents\2_Valdez_LoginSimple\2_Valdez_LoginSimple\obj\Debug\2_Valdez_LoginSimple.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\2_Valdez_LoginSimple\2_Valdez_LoginSimple\obj\Debug\_2_Valdez_LoginSimple.Form1.resources
+C:\Users\alumno.ET37\Documents\2_Valdez_LoginSimple\2_Valdez_LoginSimple\obj\Debug\_2_Valdez_LoginSimple.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\2_Valdez_LoginSimple\2_Valdez_LoginSimple\obj\Debug\2_Valdez_LoginSimple.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\2_Valdez_LoginSimple\2_Valdez_LoginSimple\obj\Debug\2_Valdez_LoginSimple.exe
+C:\Users\alumno.ET37\Documents\2_Valdez_LoginSimple\2_Valdez_LoginSimple\obj\Debug\2_Valdez_LoginSimple.pdb

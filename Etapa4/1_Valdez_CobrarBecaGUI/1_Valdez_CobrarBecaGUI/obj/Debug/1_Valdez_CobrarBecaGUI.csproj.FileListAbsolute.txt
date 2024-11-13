@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Documents\1_Valdez_CobrarBecaGUI\1_Valdez_CobrarBecaGUI\bin\Debug\1_Valdez_CobrarBecaGUI.exe.config
+C:\Users\alumno.ET37\Documents\1_Valdez_CobrarBecaGUI\1_Valdez_CobrarBecaGUI\bin\Debug\1_Valdez_CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Documents\1_Valdez_CobrarBecaGUI\1_Valdez_CobrarBecaGUI\bin\Debug\1_Valdez_CobrarBecaGUI.pdb
+C:\Users\alumno.ET37\Documents\1_Valdez_CobrarBecaGUI\1_Valdez_CobrarBecaGUI\obj\Debug\1_Valdez_CobrarBecaGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\1_Valdez_CobrarBecaGUI\1_Valdez_CobrarBecaGUI\obj\Debug\_1_Valdez_CobrarBecaGUI.Form1.resources
+C:\Users\alumno.ET37\Documents\1_Valdez_CobrarBecaGUI\1_Valdez_CobrarBecaGUI\obj\Debug\_1_Valdez_CobrarBecaGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\1_Valdez_CobrarBecaGUI\1_Valdez_CobrarBecaGUI\obj\Debug\1_Valdez_CobrarBecaGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\1_Valdez_CobrarBecaGUI\1_Valdez_CobrarBecaGUI\obj\Debug\1_Valdez_CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Documents\1_Valdez_CobrarBecaGUI\1_Valdez_CobrarBecaGUI\obj\Debug\1_Valdez_CobrarBecaGUI.pdb
