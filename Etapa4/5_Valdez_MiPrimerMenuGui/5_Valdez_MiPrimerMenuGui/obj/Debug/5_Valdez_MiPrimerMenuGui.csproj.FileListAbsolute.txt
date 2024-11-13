@@ -1,0 +1,12 @@
+C:\Users\alumno.ET37\Downloads\5_Valdez_MiPrimerMenuGui\5_Valdez_MiPrimerMenuGui\bin\Debug\5_Valdez_MiPrimerMenuGui.exe.config
+C:\Users\alumno.ET37\Downloads\5_Valdez_MiPrimerMenuGui\5_Valdez_MiPrimerMenuGui\bin\Debug\5_Valdez_MiPrimerMenuGui.exe
+C:\Users\alumno.ET37\Downloads\5_Valdez_MiPrimerMenuGui\5_Valdez_MiPrimerMenuGui\bin\Debug\5_Valdez_MiPrimerMenuGui.pdb
+C:\Users\alumno.ET37\Downloads\5_Valdez_MiPrimerMenuGui\5_Valdez_MiPrimerMenuGui\obj\Debug\5_Valdez_MiPrimerMenuGui.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\5_Valdez_MiPrimerMenuGui\5_Valdez_MiPrimerMenuGui\obj\Debug\_5_Valdez_MiPrimerMenuGui.Form1.resources
+C:\Users\alumno.ET37\Downloads\5_Valdez_MiPrimerMenuGui\5_Valdez_MiPrimerMenuGui\obj\Debug\_5_Valdez_MiPrimerMenuGui.Form2.resources
+C:\Users\alumno.ET37\Downloads\5_Valdez_MiPrimerMenuGui\5_Valdez_MiPrimerMenuGui\obj\Debug\_5_Valdez_MiPrimerMenuGui.Properties.Resources.resources
+C:\Users\alumno.ET37\Downloads\5_Valdez_MiPrimerMenuGui\5_Valdez_MiPrimerMenuGui\obj\Debug\5_Valdez_MiPrimerMenuGui.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Downloads\5_Valdez_MiPrimerMenuGui\5_Valdez_MiPrimerMenuGui\obj\Debug\5_Valdez_MiPrimerMenuGui.exe
+C:\Users\alumno.ET37\Downloads\5_Valdez_MiPrimerMenuGui\5_Valdez_MiPrimerMenuGui\obj\Debug\5_Valdez_MiPrimerMenuGui.pdb
+C:\Users\alumno.ET37\Downloads\5_Valdez_MiPrimerMenuGui\5_Valdez_MiPrimerMenuGui\obj\Debug\_5_Valdez_MiPrimerMenuGui.Form3.resources
+C:\Users\alumno.ET37\Downloads\5_Valdez_MiPrimerMenuGui\5_Valdez_MiPrimerMenuGui\obj\Debug\_5_Valdez_MiPrimerMenuGui.Form4.resources

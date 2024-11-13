@@ -1,0 +1,10 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\bin\Debug\4_Valdez_CreadorPersonajeRol.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\bin\Debug\4_Valdez_CreadorPersonajeRol.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\bin\Debug\4_Valdez_CreadorPersonajeRol.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\4_Valdez_CreadorPersonajeRol.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\_4_Valdez_CreadorPersonajeRol.Form1.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\_4_Valdez_CreadorPersonajeRol.Properties.Resources.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\4_Valdez_CreadorPersonajeRol.csproj.GenerateResource.Cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\4_Valdez_CreadorPersonajeRol.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\4_Valdez_CreadorPersonajeRol.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\4_Valdez_CreadorPersonajeRol\4_Valdez_CreadorPersonajeRol\obj\Debug\_4_Valdez_CreadorPersonajeRol.Form2.resources
