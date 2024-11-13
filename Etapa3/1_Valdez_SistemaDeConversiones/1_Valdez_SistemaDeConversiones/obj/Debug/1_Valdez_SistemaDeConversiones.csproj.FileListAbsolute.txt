@@ -1,0 +1,6 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Valdez_SistemaDeConversiones\1_Valdez_SistemaDeConversiones\bin\Debug\1_Valdez_SistemaDeConversiones.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Valdez_SistemaDeConversiones\1_Valdez_SistemaDeConversiones\bin\Debug\1_Valdez_SistemaDeConversiones.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Valdez_SistemaDeConversiones\1_Valdez_SistemaDeConversiones\bin\Debug\1_Valdez_SistemaDeConversiones.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Valdez_SistemaDeConversiones\1_Valdez_SistemaDeConversiones\obj\Debug\1_Valdez_SistemaDeConversiones.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Valdez_SistemaDeConversiones\1_Valdez_SistemaDeConversiones\obj\Debug\1_Valdez_SistemaDeConversiones.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Valdez_SistemaDeConversiones\1_Valdez_SistemaDeConversiones\obj\Debug\1_Valdez_SistemaDeConversiones.csprojResolveAssemblyReference.cache
