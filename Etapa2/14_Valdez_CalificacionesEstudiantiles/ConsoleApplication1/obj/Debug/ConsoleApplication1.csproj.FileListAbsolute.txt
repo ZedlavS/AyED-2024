@@ -1,0 +1,12 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\9_Valdez_MiPrimerMatriz\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\9_Valdez_MiPrimerMatriz\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\9_Valdez_MiPrimerMatriz\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\9_Valdez_MiPrimerMatriz\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\9_Valdez_MiPrimerMatriz\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\9_Valdez_MiPrimerMatriz\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
